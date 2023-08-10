@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    background-color: grey;
+    color: black;
+}
+.header,
+.footer,
+.buttons,
+#results,
+#score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+    margin: 20px;
+}
