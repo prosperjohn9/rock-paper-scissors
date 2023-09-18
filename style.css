@@ -14,3 +14,8 @@
     gap: 1px;
     margin: 20px;
 }
+.footer img {
+    width: 22px;
+    height: 22px;
+    margin-left: 4px;
+}
